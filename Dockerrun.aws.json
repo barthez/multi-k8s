@@ -24,7 +24,7 @@
     },
     {
       "name": "nginx",
-      "image": "bartekbulat/multi-nginix",
+      "image": "bartekbulat/multi-nginx",
       "essential": true,
       "memory": 128,
       "portMappings": [
