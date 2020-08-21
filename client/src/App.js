@@ -11,7 +11,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Fib Calc</h1>
+          <h1 className="App-title">Fib Calc on K8s</h1>
           <Link to="/" className="App-link">Home</Link>
           <Link to="/otherpage" className="App-link">Other Page</Link>
         </header>
